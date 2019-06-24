@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TWITTERCLONE</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+
+    <string name="back4app_app_id">FoNKflS8fScGGDZDBieATC4ITLTNTTZrKLPP8LEx</string>
+    <string name="back4app_client_key">84Vz6vvuz3SZv0OBQTfLmBFdDaLFkVrJ0dKuADon</string>
+</resources>
